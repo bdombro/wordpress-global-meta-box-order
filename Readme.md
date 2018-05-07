@@ -1,6 +1,8 @@
-# Global Meta Box Order
+# Unified Meta Box Order
 
 Intuitively harmonize column layout and meta box positions across all backend users of your WordPress installation.  
+
+Credit: This plugin is derived from the abandoned [Global Meta Box Order plugin](https://wordpress.org/plugins/global-meta-box-order) with hopes to be more stable and better support new versions of Wordpress.
 
 ## Quick Overview
 
@@ -13,7 +15,7 @@ Intuitively harmonize column layout and meta box positions across all backend us
 
 ## Installation
 
-Download and unpack, then move the folder 'global-meta-box-order' into your 'plugins' folder. Head over to your WordPress installation and activate the plugin in the admin area.
+Download and unpack, then move the folder 'unified-meta-box-order' into your 'plugins' folder. Head over to your WordPress installation and activate the plugin in the admin area.
 
 ## Rollback
 

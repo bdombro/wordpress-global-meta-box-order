@@ -2,15 +2,17 @@
 
 /*
 
-Plugin Name: Global Meta Box Order
+Plugin Name: Unified Meta Box Order
 Description: Harmonize column layout and meta box positions across all backend users of your WordPress installation.
-Version: 1.0.3
-Plugin URI: https://github.com/pontycode/wordpress-custom-metabox-order/
-Author: nosurs
-Author URI: https://github.com/pontycode
+Version: 1.0.4
+Plugin URI: https://github.com/bdombro/wordpress-unified-meta-box-order/
+Author: Brian Dombrowski
+Author URI: https://github.com/bdombro
 License: GPL v2 or later
 
-Copyright © 2013-2015 Pontycode
+This plugin is derived from Pontycode's orphaned Global Meta Box Order project with hopes to be more stable and better support new versions of Wordpress.
+
+Copyright © 2018 Brian Dombrowski
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -26,7 +28,7 @@ GNU General Public License for more details.
 
 namespace GlobalMetaBoxOrder;
 
-define(__NAMESPACE__.'\VERSION', '1.0.3');
+define(__NAMESPACE__.'\VERSION', '1.0.4');
 
 /**
  * Configuration
