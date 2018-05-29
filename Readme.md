@@ -178,7 +178,7 @@ If, on the other hand, if you want to place one specific box _above_ the editor,
 
 ## Support
 
-If you have any issues with this plugin feel free to reach out to the mainainer, bdombro@gmail.com.
+If you have any issues with this plugin feel free to reach out to the maintainer, bdombro@gmail.com.
 
 ## License
 

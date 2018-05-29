@@ -1,8 +1,8 @@
-=== Global Meta Box Order ===
-Contributors: nosurs
+=== Unified Meta Box Order ===
+Contributors: bdombro, nosurs
 Tags:  admin, custom, customize, customization, post, page, custom-post-type, dashboard, meta, meta-box, metabox, ui
 Requires at least: 4.1
-Tested up to: 4.3
+Tested up to: 4.6
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -12,6 +12,8 @@ Harmonize meta box positions for all backend users.
 == Description == 
 
 Intuitively harmonize meta box positions and screen column layout for all backend users of your WordPress installation.  
+
+Credit: This plugin is derived from the abandoned [Global Meta Box Order plugin](https://wordpress.org/plugins/global-meta-box-order) with hopes to be more stable and better support new versions of Wordpress.
 
 = Quick Overview =
 
@@ -178,6 +180,10 @@ The position of WordPress' WYSIWYG editor is fixed, and can't be changed out of 
 
 If, on the other hand, if you want to place one specific box *above* the editor, you might want to check out [this answer](http://wordpress.stackexchange.com/a/88103) on *stackexchange*.
 
+== Support ==
+
+If you have any issues with this plugin feel free to reach out to the maintainer, bdombro@gmail.com.
+
 == Changelog ==
 
 = 1.0.3 =
@@ -187,3 +193,6 @@ If, on the other hand, if you want to place one specific box *above* the editor,
 
 = 1.0.3 =
 Fixed a bug with incoming AJAX requests.
+
+= 1.0.4 = 
+Fixed bug to check if get_current_screen is available before calling it.
